@@ -105,7 +105,7 @@ const showTrips = (miArray) => {
                       <div class="hotel-card_pricing text-center">
                         <h3>$ ${el.price}</h3>
                         <!-- Button trigger modal -->
-<button type="button" class="btn btn-primary opne-modal"  data-open="modal1">
+<button type="button" class="btn btn-primary open-modal"  data-open="modal1">
   Ver Disponibilidad
 </button>    
       <!--Inicio Modal-->
