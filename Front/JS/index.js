@@ -46,7 +46,7 @@ const showTrips = (miArray) => {
         `	
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
           <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
-          <link rel="stylesheet" href="Front/Recursos/Cards/css/style.css">
+          <link rel="stylesheet" href="Front\Recursos\Cards\css\style.css">
           
           <div id="viajes-search" class="filtro container " style="
           padding-top: 10px;
