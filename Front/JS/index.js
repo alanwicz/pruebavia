@@ -46,7 +46,7 @@ const showTrips = (miArray) => {
         `	
   <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
           <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
-          <link rel="stylesheet" href="/Front/Recursos/Cards/css/style.css">
+          <link rel="stylesheet" href="Front/Recursos/Cards/css/style.css">
           
           <div id="viajes-search" class="filtro container " style="
           padding-top: 10px;
@@ -59,13 +59,13 @@ const showTrips = (miArray) => {
                     <div id="bootstrapCarousel" class="carousel slide h-100" data-ride="carousel">
                       <div class="carousel-inner h-100">
                         <div class="carousel-item h-100 active">
-                          <img src="/Front/Recursos/Cards/hotel1.jpg" class="d-block w-100" alt="Hotel Image">
+                          <img src="Front/Recursos/Cards/hotel1.jpg" class="d-block w-100" alt="Hotel Image">
                         </div>
                         <div class="carousel-item h-100">
-                          <img src="/Front/Recursos/Cards/hotel2.jpg" class="d-block w-100" alt="Hotel Image">
+                          <img src="Front/Recursos/Cards/hotel2.jpg" class="d-block w-100" alt="Hotel Image">
                         </div>
                         <div class="carousel-item h-100">
-                          <img src="/Front/Recursos/Cards/hotel3.jpg" class="d-block w-100" alt="Hotel Image">
+                          <img src="Front/Recursos/Cards/hotel3.jpg" class="d-block w-100" alt="Hotel Image">
                         </div>
                       </div>
                       <a class="carousel-control-prev" href="#bootstrapCarousel" role="button" data-slide="prev">
