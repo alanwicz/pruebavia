@@ -93,7 +93,7 @@ const showTrips = (miArray) => {
                       
                         <div class="mb-2"><span class="badge badge-primary">${el.rating}</span> <a href="#!" class="text-muted">(${el.reviews.length} reviews)</a></div>
                         <div class="amnities d-flex mb-3">
-                          <img class="mr-2" src="Front/Recursos/Cards/icons/desk-bell.svg" data-toggle="tooltip" data-placement="top" title="Desk bell" alt="Desk bell">
+                          <img class="mr-2" src="Front\Recursos\Cards\icons\desk-bell.svg" data-toggle="tooltip" data-placement="top" title="Desk bell" alt="Desk bell">
                           <img class="mr-2" src="Front/Recursos/Cards/icons/single-bed.svg" data-toggle="tooltip" data-placement="top" title="Single Bed" alt="Single Bed">
                           <img class="mr-2" src="Front/Recursos/Cards/icons/towels.svg" data-toggle="tooltip" data-placement="top" title="Towels" alt="Towels">
                           <img class="mr-2" src="Front/Recursos/Cards/icons/wifi.svg" data-toggle="tooltip" data-placement="top" title="Wifi" alt="Wifi">
