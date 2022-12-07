@@ -132,7 +132,7 @@ body{
 
 #Home{
     
-    background-image:url(/Front/Recursos/Home/FondoH.jpg);
+    background-image:url(Front/Recursos/Home/FondoH.jpg);
     background-position:center;
     background-size:cover;
     display:flex;
